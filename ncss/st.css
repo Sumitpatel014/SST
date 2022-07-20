@@ -1,0 +1,38 @@
+.ok
+{
+    font-style: oblique;
+    font-weight: 100;
+    font-size: 20px;
+}
+.ro
+{
+    color: darkgreen;
+}
+.py
+{
+font-style: oblique;
+font-size: 35;
+}
+.table
+{
+    border-radius: 10px;
+    border-color: aqua;
+    background-color: darkorange;
+    color: black;
+}
+body
+{
+    background-color: cadetblue;
+}
+.table2
+{
+border-radius: 5px;
+background-color: darkorange;
+ border: 4px solid #0ff;
+ position: relative;
+
+}
+.tabl
+{
+font-size: 30px;
+}
